@@ -1,0 +1,36 @@
+.nav-home > a{
+    padding-top: 80px;
+    padding-right: 80px;
+    color: gray;
+    font-weight: bold;
+}
+.nav-home >img{
+    margin-top: 10px;
+    padding-left: 70px;
+    height: inherit;
+} 
+
+.carousel-content{
+    height: 500px;
+}
+
+
+.thumbnail {
+    height: 400px;
+}
+
+.footer{
+    background-color: darkblue;
+}
+
+.footer > div> h4{
+    color: yellow;
+}
+
+.footer > div> p{
+    color: yellowgreen;
+}
+
+address{
+    color: white;
+}
